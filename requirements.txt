@@ -3,6 +3,5 @@ openai
 transformers
 langchain
 sentence-transformers 
-chromadb 
 PyPDF2 
 faiss-cpu
